@@ -1,3 +1,15 @@
+## Task lists
+- [x] Pair-Program this one
+- [x] create a react app: PUNK-API-REACT-APP
+- [x] git init and push it up as repo.
+- [x] In your app.js component make a fetch request to: https://api.punkapi.com/v2/ and set state with the data that comes back
+- [x] Build a beer component that displays everything about the beer
+- [x] Map over state and render a component for each beer in state.
+- [x] Add a button that uses this to allow a user to "like" a beer.
+
+
+
+### About React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
